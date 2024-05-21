@@ -9,7 +9,7 @@
 
 ### What I'm using ? 🛠
 
-I am AWS -DEVOPS 
+I am AWS-DevOps Engineer
 <br/>
 
 - Python, HTML5 , CSS , Linux , Git , GitHub , Jira , Agile , SQL , AWS , Terraform , Docker , Kubernets ,Ansible , Maven , Nexus
