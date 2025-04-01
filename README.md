@@ -21,7 +21,7 @@ I am AWS-DevOps Engineer
 ## 🚀 Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="DevOps" width="100" height="48"/> </a> 
+ <a href="#" target="_blank"> <img src="https://img.freepik.com/premium-vector/devops-eight-infinity-flat-purple-infinity-icon-devops-vector-icon_579956-6418.jpg?semt=ais_hybrid" alt="DevOps" width="100" height="48"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
